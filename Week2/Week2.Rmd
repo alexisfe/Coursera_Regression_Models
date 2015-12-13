@@ -49,10 +49,6 @@ Refer back to the mtcars data set with mpg as an outcome and weight (wt) as the 
 
 Answer is 0.25
 
-Do the residuals always have to sum to 0 in linear regression?
-
-The residuals must always sum to zero.	
-
 
 
 
